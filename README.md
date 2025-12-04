@@ -49,8 +49,8 @@ Model Waveform
 
 Program
 
-Am=4.6;
-Ac=9.2;
+Am=5.7;
+Ac=11.4;
 fm=354;
 fc=3540;
 fs=35400;
@@ -75,7 +75,8 @@ Output Graph
 
 Tablular Column
 
-![WhatsApp Image 2025-10-04 at 20 33 34_052db7cf](https://github.com/user-attachments/assets/24040c04-3a81-4b60-96ef-5da04d0dfca5)
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/ec4ed7db-6358-4e97-8842-e6efb9216392" />
+
 
 
 Result
